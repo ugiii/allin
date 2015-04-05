@@ -1,1 +1,6 @@
 /.project
+
+# Dependencies
+composer.lock
+vendor
+
